@@ -1,4 +1,4 @@
-# Aram-booster
+# aram-booster
 
 Active ARAM BOOST without RP.
 
