@@ -2,6 +2,10 @@
 
 Active ARAM BOOST without RP.
 
+<p align="center">
+  <img alt="" src="https://nomi.dev/img/posts/aram-booster/demo.gif" />
+</p>
+
 ## Usage
 
 **Requisites**
