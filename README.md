@@ -23,3 +23,4 @@ Active ARAM BOOST without RP.
 In this repo, we have some other implementations:
 - [/autoit](https://github.com/nomi-san/aram-booster/tree/main/autoit) - written in AutoIt with the same feature
 - [/nodejs](https://github.com/nomi-san/aram-booster/tree/main/nodejs) - written in Node JS for both Windows and OS X, make everyting is automatic
+- [~~/csharp~~](https://github.com/nomi-san/aram-booster/tree/main/csharp) - ~~not available here~~
