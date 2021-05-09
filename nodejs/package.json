@@ -1,0 +1,19 @@
+{
+  "name": "aram-booster",
+  "version": "1.0.0",
+  "author": "nomi",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "build": "nexe -t x86-10.0.0 ./index.js -o ./bin/aram-booster.exe"
+  },
+  "dependencies": {
+    "lcu-connector": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "ws": "^7.4.5"
+  },
+  "devDependencies": {
+    "nexe": "^4.0.0-beta.18"
+  }
+}
