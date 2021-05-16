@@ -1,5 +1,9 @@
 @echo off & setlocal
 
+:: Check admin privileges
+net SESSION 1>nul 2>nul
+if %errorlevel% NEQ 0 goto :err
+
 :: Get commandline of LeagueClientUx
 for /F "tokens=* USEBACKQ" %%a in (
     `"WMIC PROCESS WHERE name='LeagueClientUx.exe' GET commandline | findstr ."`
