@@ -1,3 +1,8 @@
+# This method got patched, we'll back soon!
+```
+01 Jul 2021: Fixed in the server.
+```
+
 # aram-booster
 
 Active ARAM BOOST without RP.
