@@ -1,7 +1,13 @@
-# This method got patched, we'll back soon!
+## This method got patched, we'll back soon!
 ```
-01 Jul 2021: Fixed in the server.
+01 Jul 2021: Fixed at server side.
 ```
+
+TL;DR
+
+> Since the release of LCU, the first method was making a POST request to purchase skin BOOST. No consuming any RP, except confirming after clicked the BOOST button.
+
+> Since v11.4, Riot added RP checking on this API. The second method (is used in this repo) invokes directly to RTMP to activate skin BOOST. And now, Riot adds RP checking on RTMP (server side) and some stuff when invoking RTMP methods.
 
 # aram-booster
 
