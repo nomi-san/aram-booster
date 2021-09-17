@@ -11,7 +11,7 @@ TL;DR
 
 # aram-booster
 
-Active ARAM BOOST without RP.
+Activate ARAM/ARURF skin BOOST without consuming any RP.
 
 <p align="center">
   <img alt="" src="https://nomi.dev/img/posts/aram-booster/demo.gif" />
@@ -19,11 +19,7 @@ Active ARAM BOOST without RP.
 
 ## Usage
 
-**Requisites**
-
-- Make sure **curl** is installed, only MSVC version is expected
-- If not, you can extract curl.exe in **curl.zip** and copy to C:\Windows\System32\
-- Make sure League Client is opened and you are in ARAM's champion select
+Make sure League Client is opened and you are in ARAM/ARURF champion select.
 
 **Step 1** - Run **aram-booster.bat** as Admin 👍
 
