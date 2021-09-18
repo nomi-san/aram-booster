@@ -9,6 +9,16 @@ TL;DR
 
 > Since v11.4, Riot added RP checking on this API. The second method (is used in this repo) invokes directly to RTMP to activate skin BOOST. And now, Riot adds RP checking on RTMP (server side) and some stuff when invoking RTMP methods.
 
+<details>
+  <summary><strong>/lol-lobby-team-builder/champ-select/v1/team-boost/purchase</strong> flow</summary>
+  <pre>
+1. Check current RP amount
+  1.1 Return if not enough
+2. Pay RP
+3. Invoke lcdsServiceProxy.call(uuid, "teambuilder-draft", "activateBattleBoostV1", "")
+</pre>
+</details>
+
 # aram-booster
 
 Activate ARAM/ARURF skin BOOST without consuming any RP.
