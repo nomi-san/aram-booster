@@ -10,6 +10,8 @@ Here is some information that we can reveal about it:
 
 > This is the ONLY and the LAST method, can be patched anytime 😪
 
+> Opps, it's not here 😪
+
 ## Previous method got patched!
 ```
 01 Jul 2021: Fixed at server side.
@@ -32,24 +34,11 @@ TL;DR
 </details>
 
 # aram-booster
-
 Activate ARAM/ARURF skin BOOST without consuming any RP.
+
+1. Make sure you're in **ARAM**/**ARURF** champion select 👍
+2. Run **aram-booster.bat** as Admin 😎
 
 <p align="center">
   <img alt="" src="https://nomi.dev/img/posts/aram-booster/demo.gif" />
 </p>
-
-## Usage
-
-Make sure League Client is opened and you are in ARAM/ARURF champion select.
-
-**Step 1** - Run **aram-booster.bat** as Admin 👍
-
-**Step 2** - Enjoy 😎
-
-## More
-
-In this repo, we have some other implementations:
-- [/autoit](https://github.com/nomi-san/aram-booster/tree/main/autoit) - written in AutoIt with the same feature
-- [/nodejs](https://github.com/nomi-san/aram-booster/tree/main/nodejs) - written in Node JS for both Windows and OS X, make everything is automatic
-- [~~/csharp~~](https://github.com/nomi-san/aram-booster/tree/main/csharp) - todo
