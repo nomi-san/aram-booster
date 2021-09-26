@@ -1,4 +1,16 @@
-## This method got patched, we'll back soon!
+## New method available!
+
+Here is some information that we can reveal about it:
+- ARAM BOOST is a purchase on the store
+- Any HTTP debugger will break down accessing to the store
+- The previous RTMP call needs a token
+- League session has 1 day expiration
+- Some non-refundable items can be refunded without refund token, but Garena...
+- FREE BOOST literally, if you've not enough RP
+
+> This is the ONLY and the LAST method, can be patched anytime 😪
+
+## Previous method got patched!
 ```
 01 Jul 2021: Fixed at server side.
 ```
